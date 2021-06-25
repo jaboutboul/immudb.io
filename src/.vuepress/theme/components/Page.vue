@@ -63,8 +63,9 @@ export default {
     //scroll-snap-type y mandatory
   & > h3
     padding-top 'calc(%s + 57px)' % ($navbarHeight)
-    margin-top -145px
+    margin-top -120px
     color $cn-color-secondary
+    margin-bottom 0
   a
     span
       display none

@@ -28,7 +28,7 @@ export default {
 		padding-top 'calc(%s + 57px)' % ($navbarHeight)
 		margin-top -145px
 		&:not(:first-child)
-			margin-top -110px
+			margin-top -120px
 		color $cn-color-secondary
 	p
 		margin-bottom 0
